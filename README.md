@@ -1,23 +1,66 @@
-# Awesome Bot Base
+<img width="1044" height="459" alt="image" src="https://github.com/user-attachments/assets/25674348-d24d-4a66-94d4-54297c32c05e" />
 
-> [!NOTE] 
-> This project **base** can be generated using the [Constant CLI](https://github.com/rinckodev/constatic/tree/master/tools/cli#readme)
-> See the full documentation for this base by accessing: https://constatic-docs.vercel.app/docs/discord/start
+# 🤖 JUNINHO SYSTEM
 
-This is the most complete discord bot base you've ever seen! Developed by [@rinckodev](https://github.com/rinckodev), this project uses typescript in an incredible way to provide complete structures and facilitate the development of your discord bot.
+## 📌 Description
 
-> [!WARNING]
-> [NodeJs](https://nodejs.org/en) version required: 20.12 or higher
+This project is a Discord bot designed to monitor and deliver in-game events in real time, sending updates directly to configured servers.
 
-## Scripts
+The bot acts as a data collector and distributor, connecting to game event sources (such as APIs or internal endpoints), processing the information, and presenting it in a clear and organized format within Discord. This allows players to stay updated on important activities, logs, and changes without needing to access the game manually.
 
-- `dev`: running bot in development
-- `build`: build the project
-- `watch`: running in watch mode
-- `start`: running the compiled bot
+---
 
-## Structures
+## ⚙️ Technologies
 
-- [Commands](https://constatic-docs.vercel.app/docs/discord/commands)
-- [Responder](https://constatic-docs.vercel.app/docs/discord/responders)
-- [Events](https://constatic-docs.vercel.app/docs/discord/events)
+- **JavaScript**
+- **TypeScript**
+- **Node.js**
+- **discord.js**
+
+---
+
+## 🚀 Features
+
+- 📡 Real-time game event monitoring  
+- 🔄 Automatic data collection from APIs or logs  
+- 📢 Event notifications sent directly to Discord channels  
+- 🧠 Data processing and formatting for better readability  
+- ⚙️ Flexible per-server configuration  
+- 🕒 Continuous and automated updates  
+
+---
+
+## 🎯 Purpose
+
+The main goal of this project is to centralize important game information in one place, improving accessibility and communication for players and communities within Discord.
+
+---
+
+## 🧩 Use Cases
+
+- Monitoring available matches  
+- Tracking activity logs (game journal)  
+- Alerts for important events  
+- Integration with guild or clan systems  
+
+---
+
+## 📈 Future Improvements
+
+- 🌐 Web dashboard for configuration  
+- 🔐 Role-based permission system  
+- ⚡ Smart caching for performance optimization  
+- 🎮 Multi-game support  
+- 🧩 Advanced command system  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
